@@ -1,3 +1,7 @@
+Hi 👋, I'm Akhil
+A Good Specific Programmer from India
+
+
 - 👋 Hi, I’m @akhilv24
 - 🌱 I’m currently learning AI, Machine learning and Web Development
 - 📫 How to reach me akhilv2402@gmail.com
