@@ -5,7 +5,7 @@ A Good Specific Programmer from India
 
 
 - 👋 Hi, I’m @akhilv24
-- 🌱 I’m currently learning AI, Machine learning and Web Development
+- 🌱 I’m currently learning AI and Web Technologies
 - 📫 How to reach me akhilv2402@gmail.com
 - ⚡ Fun fact: Not an Expert but Good at coding
 
