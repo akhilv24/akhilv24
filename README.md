@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Machine Learning,AI and Full Stack Web Development**
 - 🌱 Learning Mainly **ML,HTML,CSS,JAVASCRIPT,C,C++.Python,JAVA,SQL**
 - 👨‍💻 All of my projects are available [here](https://github.com/akhilv24?tab=repositories)
-- 💬 Ask me about **AI, ML, Python, Django, React, Tailwind**
+- 💬 Ask me about **AI,HTML,CSS,JAVASCRIPT**
 - 📫 Reach me via [Instagram](https://www.instagram.com/akhilz.24/) <!-- Replace with your own handle -->
 
 ---
