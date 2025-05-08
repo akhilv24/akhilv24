@@ -10,7 +10,8 @@
 - 👨‍💻 All of my projects are available [here](https://github.com/akhilv24?tab=repositories)
 - 💬 Ask me about **AI,HTML,CSS,JAVASCRIPT**
 - 📫 Reach me via
-  <a href="https://www.instagram.com/akhilz.24/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/akhilz.24/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 
 ---
 
