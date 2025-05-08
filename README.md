@@ -9,7 +9,8 @@
 - 🌱 Learning Mainly **ML,HTML,CSS,JAVASCRIPT,C,C++.Python,JAVA,SQL**
 - 👨‍💻 All of my projects are available [here](https://github.com/akhilv24?tab=repositories)
 - 💬 Ask me about **AI,HTML,CSS,JAVASCRIPT**
-- 📫 Reach me via [Instagram](https://www.instagram.com/akhilz.24/) <!-- Replace with your own handle -->
+- 📫 Reach me via
+- <a href="https://www.instagram.com/akhilz.24/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>[Instagram](https://www.instagram.com/akhilz.24/) <!-- Replace with your own handle -->
 
 ---
 
