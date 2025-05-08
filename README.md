@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Akhil</h1>
+<h1 align="center">Hi 👋, Akhil Here!</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
-- 🌱 I’m currently learning **AI, Machine Learning and Web Development**
+- 🌱 I’m currently learning **Machine Learning,AI and Web Development(HTML,CSS,JavaScript)**
 
 - 👨‍💻 All of my webDev projects are available [here](https://github.com/akhilv24?tab=repositories)
 
 - 💬 Ask me about **AI, ML, SKLearn, React, Tailwind, HTML, CSS, Django**
 
 - 📫 How to reach me:  
-  [Instagram](https://www.instagram.com/your_actual_instagram/) <!-- Replace with your real handle -->
+  [Instagram](https://www.instagram.com/akhilz.24/) <!-- Replace with your real handle -->
 
 ---
 
