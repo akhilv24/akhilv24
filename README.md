@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Akhil Here</h1>
-<h3 align="center">🚀 A Enthusiast Programmer | 🌱 AI/ML | 💻 Web Developer</h3>
+<h3 align="center">🚀 An Enthusiast Programmer | 🌱 AI/ML | 💻 Web Developer</h3>
 
 ---
 
