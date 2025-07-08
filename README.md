@@ -40,14 +40,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akhilv24&theme=radical&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ## 🌐 Let's Connect
 
 <p align="left">
