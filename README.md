@@ -14,7 +14,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,mysql,git,linux&perline=5" />
 </p>
