@@ -30,7 +30,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Github Stats Based on My Projects!!!!!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akhilv24&show_icons=true&theme=radical" alt="Akhil's GitHub Stats" />
