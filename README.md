@@ -1,34 +1,56 @@
-<h1 align="center">Hi 👋, Akhil Here</h1>
-<h3 align="center">🚀 An Enthusiast Programmer | 🌱 AI/ML | 💻 Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Akhil</h1>
+<h3 align="center">🚀 Enthusiastic Programmer | 🌱 AI/ML Explorer | 💻 Web Developer</h3>
 
 ---
 
-### 📌 About Me
+## 📌 About Me
 
--  🔭 I’m currently working on **Machine Learning,AI and Full Stack Web Development**
--  🌱 Learning Mainly **ML,HTML,CSS,JAVASCRIPT,C,C++.Python,JAVA,SQL**
--  👨‍💻 All of my projects are available [here](https://github.com/akhilv24?tab=repositories)
--  💬 Ask me about **AI,HTML,CSS,JAVASCRIPT**
--  📫 Reach me via [Instagram](https://www.instagram.com/akhilz.24/) | [Gmail](mailto:akhilv2402@gmail.com)
+- 🔭 I’m currently working on **Machine Learning, AI, and Full Stack Web Development**
+- 🌱 Currently learning: **ML, HTML, CSS, JavaScript, C, C++, Python, Java, SQL**
+- 👨‍💻 All my projects are available on my [GitHub Repositories](https://github.com/akhilv24?tab=repositories)
+- 💬 Ask me about **AI, HTML, CSS, JavaScript**
+- 📫 Reach me via: [Instagram](https://www.instagram.com/akhilz.24/) | [Gmail](mailto:akhilv2402@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-### 🌐 Let's Connect
+---
 
-<p>
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilv24&show_icons=true&theme=radical" alt="Akhil's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilv24&theme=radical" alt="Akhil's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilv24&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akhilv24&theme=radical&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="left">
   <a href="https://www.instagram.com/akhilz.24/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:akhilv2402@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
