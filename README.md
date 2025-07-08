@@ -12,8 +12,6 @@
 - 📫 Reach me via: [Instagram](https://www.instagram.com/akhilz.24/) | [Gmail](mailto:akhilv2402@gmail.com)
 
 ---
-
-## 🛠️ Tech Stack
 ## 🛠️ Tech Stack
 
 <p align="center">
