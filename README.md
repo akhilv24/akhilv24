@@ -22,15 +22,18 @@
 
 ---
 
-## 📈 GitHub Stats & Streak
+## 📊 GitHub Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilv24&show_icons=true&theme=graywhite&hide_border=true" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilv24&layout=compact&theme=graywhite&hide_border=true" width="40%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilv24&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilv24&theme=tokyonight" height="165" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilv24&layout=compact&theme=tokyonight" height="165" />
-</p>
+---
 
+## 🔥 Contribution Streak
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=akhilv24&theme=default&hide_border=true" width="80%" />
+</div>
 ---
 
 ## 🌐 Let's Connect
@@ -43,4 +46,5 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
