@@ -38,13 +38,14 @@ I'm all about:
 
 ---
 
-### **Data Analysis & Visualization**
+## Data Analysis & Visualization
 <p>
   <img src="https://skillicons.dev/icons?i=pandas" height="42" />
   <img src="https://skillicons.dev/icons?i=numpy" height="42" />
   <img src="https://skillicons.dev/icons?i=matplotlib" height="42" />
   <img src="https://skillicons.dev/icons?i=plotly" height="42" />
 </p>
+
 
 ---
 
@@ -119,5 +120,6 @@ I'm all about:
 <p align="center">
   <b>⚡ Always learning. Always building. Always improving.</b>
 </p>
+
 
 
