@@ -1,125 +1,45 @@
-## 👋 Hey there!!
-## I'm Akhil — AI & ML Enthusiast | Data Science Learner | Tech Explorer
-
-I’m an aspiring AI engineer focused on designing **practical, intelligent solutions** that solve real-world problems.  
-I specialize in **Machine Learning, Data Analysis, Predictive Modeling, and Modern Web App Development**, turning raw data into meaningful insights and interactive applications.  
-
-My work spans **chatbots, analytics dashboards, ML-powered prediction systems, biomedical signal analysis, and automation tools** — all built with clean, reliable, and scalable practices in mind.
-
-I'm all about:
-- 🔍 Deep learning & problem-solving  
-- 🛠 Turning ideas into clean, functional applications  
-- 📊 Working with data to get meaningful insights  
-- 🚀 Learning and improving one project at a time  
+<h1 align="center">Hi 👋 I'm Akhil</h1>
+<h3 align="center">🚀 AI/ML Explorer | 💻 Programmer & Developer | 🌱 Always Learning</h3>
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 📌 About Me
+
+- 🔭 Currently working on **AI, Machine Learning, and Data Science Projects**
+- 🌱 Learning & exploring: **Python, ML, Data Analysis, Java, C, C++, HTML, CSS, JS, SQL**
+- ⚙️ Love building: **Chatbots, Dashboards, ML Models, and Web Apps**
+- 👨‍💻 Check out all my work here: [My GitHub Repositories](https://github.com/akhilv24?tab=repositories)
+- 📫 Reach me at: **akhilv2402@gmail.com**
+- 🌐 Connect: [Instagram](https://www.instagram.com/akhilz.24/)
 
 ---
 
-### **Programming & Scripting**
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="42" />
-  <img src="https://skillicons.dev/icons?i=c" height="42" />
-  <img src="https://skillicons.dev/icons?i=java" height="42" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="42" />
-</p>
-
----
-
-### **Machine Learning & AI**
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch" height="42" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="42" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="42" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="42" />
-</p>
-
----
-
-## Data Analysis & Visualization
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas" height="42" />
-  <img src="https://skillicons.dev/icons?i=numpy" height="42" />
-  <img src="https://skillicons.dev/icons?i=matplotlib" height="42" />
-  <img src="https://skillicons.dev/icons?i=plotly" height="42" />
-</p>
-
-
----
-
-### **Web & App Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=streamlit" height="42" />
-  <img src="https://skillicons.dev/icons?i=html" height="42" />
-  <img src="https://skillicons.dev/icons?i=css" height="42" />
-  <img src="https://skillicons.dev/icons?i=php" height="42" />
-  <img src="https://skillicons.dev/icons?i=flask" height="42" />
-</p>
-
----
-
-### **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="42" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="42" />
-</p>
-
----
-
-### **Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="42" />
-  <img src="https://skillicons.dev/icons?i=github" height="42" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="42" />
-  <img src="https://skillicons.dev/icons?i=linux" height="42" />
-  <img src="https://skillicons.dev/icons?i=figma" height="42" />
-</p>
-
----
-
-## 📂 Featured Projects
-
-### 🔹 **Medical Chatbot**
-- Voice-enabled chatbot with chat history, medicine lookup, and health stats extraction  
-- Streamlit-based UI  
-
-### 🔹 **DataSense AI**
-- Conversational data analysis tool  
-- Upload datasets and get instant insights  
-
-### 🔹 **Employee Attrition Analysis**
-- ML model + visual dashboards  
-- Predicts employee turnover  
-
----
-
-## 📊 GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilv24&show_icons=true&theme=graywhite&hide_border=true" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilv24&layout=compact&theme=graywhite&hide_border=true" width="40%" />
-</div>
-
----
-
-## 🔥 Contribution Streak
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=akhilv24&theme=default&hide_border=true" width="80%" />
-</div>
-
----
-
-## 🌐 Connect With Me  
-<p>
-  <a href="https://github.com/akhilv24"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-</p>
+## 🛠️ Tech Stack
 
 <p align="center">
-  <b>⚡ Always learning. Always building. Always improving.</b>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,mysql,git,linux,streamlit,flask,pytorch,tensorflow,sklearn,pandas,numpy&perline=8" />
 </p>
 
+---
 
+## 📈 GitHub Stats & Streak
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilv24&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilv24&theme=tokyonight" height="165" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilv24&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://www.instagram.com/akhilz.24/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:akhilv2402@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
