@@ -1,4 +1,5 @@
-## 👋 Hi, I'm Akhil — AI & ML Enthusiast | Data Science Learner | Tech Explorer
+## 👋 Hey there!!
+## I'm Akhil — AI & ML Enthusiast | Data Science Learner | Tech Explorer
 
 I’m an aspiring AI engineer focused on designing **practical, intelligent solutions** that solve real-world problems.  
 I specialize in **Machine Learning, Data Analysis, Predictive Modeling, and Modern Web App Development**, turning raw data into meaningful insights and interactive applications.  
@@ -118,4 +119,5 @@ I'm all about:
 <p align="center">
   <b>⚡ Always learning. Always building. Always improving.</b>
 </p>
+
 
