@@ -1,88 +1,92 @@
+<!-- ============================================ -->
+<!--           PREMIUM HEADER ANIMATION           -->
+<!-- ============================================ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Akhil+👋;AI+%7C+ML+Enthusiast;Data+Science+Learner;Always+Building+Something+Cool!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=4F9CF9&center=true&vCenter=true&width=700&lines=Hey+I'm+Akhil+👋;AI+%26+ML+Enthusiast;Data+Science+Learner;Tech+Explorer+%7C+Project+Builder;Welcome+to+my+GitHub+Profile!" />
+</p>
+
+<br/>
+
+<!-- ============================================ -->
+<!--                 PROFILE INTRO                -->
+<!-- ============================================ -->
+
+# 👨‍💻 About Me  
+I’m an undergraduate diving deep into **AI, Machine Learning, and Data Science**.  
+I build clean, functional solutions — from chatbots to analytics dashboards and ML models that solve real-world problems.
+
+I love experimenting, breaking things, fixing them again, and pushing myself to learn more every day.
+
+---
+
+# 🛠️ Tech Stack (Modern Stylish Icons)
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,r,js,php,mysql,cpp,java&theme=light" />
+  <br/>
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=streamlit,tensorflow,pytorch,sklearn,flask,bootstrap&theme=light" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,react&theme=light" />
 </p>
 
 ---
 
-# 👋 Hey, I'm Akhil!
-
-### 🚀 Undergraduate | AI & ML Enthusiast | Data Science Learner  
-I’m an undergrad diving deep into **AI, Machine Learning, Data Analysis, and full-stack development**.  
-I love building tools that solve real-world problems — from intelligent chatbots to analytics dashboards and ML-powered prediction systems.
-
----
-
-## 🔥 What I'm Currently Working On
-- 🤖 **Medical Chatbot** with voice, chat history & health insights  
-- 📊 **Employee Attrition Analysis**  
-- 📈 **Salary Prediction Model based on skills**  
+# 🚀 Current Projects
+- 🤖 **Medical Chatbot** — voice support, chat history, medicine info, analytics  
+- 📊 **Employee Attrition Analysis** — insights + ML predictions  
 - 🧠 **DataSense AI** — Conversational Data Analyst  
-- 🫀 **ECG Decoding using ML**
+- 💸 **Salary Prediction (ML)**  
+- 🫀 **ECG Signal Decoding**  
 
 ---
 
-## 🛠 Tech Stack & Tools
-
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **Frameworks & Libraries**
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-005C9E?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-# 📊 GitHub Stats
+# 📈 GitHub Analytics (Professional Style)
 
 <div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=akhilv24&show_icons=true&theme=transparent&hide_border=true&title_color=4F9CF9&icon_color=4F9CF9&text_color=6C757D" width="54%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=akhilv24&show_icons=true&theme=tokyonight" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilv24&layout=compact&theme=tokyonight" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilv24&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=4F9CF9&text_color=6C757D" width="42%" />
 
 </div>
 
 ---
 
-# 🔥 Streak Stats
-
+# 🔥 Activity Streak
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=akhilv24&theme=tokyonight&border_radius=5" />
+  <img src="https://streak-stats.demolab.com?user=akhilv24&theme=transparent&hide_border=true&background=FFFFFF00&ring=4F9CF9&currStreakLabel=4F9CF9&fire=4F9CF9"/>
 </div>
 
 ---
 
-# 📌 Featured Projects
+# 📂 Featured Work
 
 ### 🔹 **Medical Chatbot**
-Voice-enabled healthcare assistant with chat history, medicine info & dashboard analytics.
+Healthcare assistant with voice, chat memory, and PDF health report insights.
 
 ### 🔹 **DataSense AI**
-A conversational data analysis tool for instant insights from uploaded datasets.
+Upload data → Ask questions → Get instant insights.  
+Your personal AI data analyst.
 
-### 🔹 **Employee Attrition Analysis**
-Predicts employee turnover and visualizes important HR metrics.
-
----
-
-# 📫 Connect With Me
-
-- 🔗 GitHub: **@akhilv24**
-- 🔗 LinkedIn: *(add your link here)*
+### 🔹 **Attrition Analysis**
+Predicts employee churn using HR data.
 
 ---
 
-<p align="center">✨ Always learning. Always building. Always leveling up. ✨</p>
+# 🌐 Connect With Me  
+<p align="left">
+  <a href="https://github.com/akhilv24"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+</p>
+
+---
+
+<p align="center">
+  <b>✨ Always learning. Always building. Always improving. ✨</b>
+</p>
+
+
