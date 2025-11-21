@@ -67,7 +67,6 @@
 </p>
 
 ---
-
 ## 📂 Featured Projects
 
 ### 🔹 **Medical Chatbot**
@@ -102,12 +101,13 @@
 ## 🌐 Connect With Me  
 <p>
   <a href="https://github.com/akhilv24"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+  <a href="https://www.linkedin.com/in/akhil2402/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://www.instagram.com/akhilz.24/"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
 </p>
 
 <p align="center">
   <b>⚡ Always learning. Always building. Always improving.</b>
 </p>
+
 
 
