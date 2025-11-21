@@ -1,108 +1,157 @@
-<!-- ========================= -->
-<!--  Tech Professional README -->
-<!-- ========================= -->
+<!-- ========================================================= -->
+<!--                  PROFESSIONAL HEADER                      -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img alt="header" src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&color=0B67A3&center=true&vCenter=true&width=800&lines=Hello,+I'm+Akhil+%7C+AI+%26+Data+Science+|+Tech+Professional" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=2500&pause=1000&color=0B67A3&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Akhil+👋;AI+%26+Machine+Learning+Enthusiast;Data+Science+Learner+%26+Tech+Professional;Welcome+to+My+GitHub+Profile!" />
+</p>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                        PROFILE SUMMARY                     -->
+<!-- ========================================================= -->
+
+# 👨‍💻 **About Me**
+I’m an undergraduate building **real-world, production-focused solutions** in **AI, Machine Learning, and Data Engineering**.  
+My goal is simple:  
+➡️ Build tools that **solve actual problems**,  
+➡️ Develop software that is **reliable, clean, and maintainable**,  
+➡️ And become a professional who delivers **impact over complexity**.
+
+I spend most of my time:
+- Turning ideas into working applications  
+- Building ML models that provide insights  
+- Writing structured documentation  
+- Making my projects user-friendly and deployment-friendly  
+
+---
+
+# 🚀 **What I Excel In**
+### ✔ Machine Learning  
+### ✔ Data Analysis & Visualization  
+### ✔ AI-driven Applications  
+### ✔ Streamlit Web App Development  
+### ✔ Database Systems (SQL/MySQL)  
+### ✔ Clean Code & Documentation  
+
+---
+
+<!-- ========================================================= -->
+<!--               PROFESSIONAL TECH STACK (BIG ICONS)          -->
+<!-- ========================================================= -->
+
+# 🛠️ **Tech Stack & Tools (Professional Edition)**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,js,php,mysql,java,cpp&theme=light" height="55" /><br/>
+  <img src="https://skillicons.dev/icons?i=streamlit,sklearn,pandas,numpy,pytorch,flask,bootstrap&theme=light" height="55" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman&theme=light" height="55" />
 </p>
 
 ---
 
+<!-- ========================================================= -->
+<!--                   PROJECT SECTION (BIG CARDS)              -->
+<!-- ========================================================= -->
+
+# 📂 **Featured Projects (Detailed & Professional)**
+
+## 🔹 **1) Medical Chatbot — Healthcare AI Assistant**
+A voice-enabled, intelligent chatbot that supports:  
+✔ Medicine lookup  
+✔ Chat history  
+✔ Health stats from uploaded medical PDFs  
+✔ User-friendly interactive UI  
+**Tech Used:** Python, Streamlit, NLP, SQLite/MySQL  
+**Repo Link:** *(add your repo link here)*
+
+---
+
+## 🔹 **2) DataSense AI — Conversational Data Analyst**
+Upload any dataset → Ask questions → Get insights instantly.  
+✔ Natural language querying  
+✔ Automated charts  
+✔ Summary reports  
+✔ Intelligent data interpretation  
+**Tech Used:** Python, Pandas, ML, Streamlit  
+**Repo Link:** *(add your repo link here)*
+
+---
+
+## 🔹 **3) Employee Attrition Analysis — HR Analytics**
+Predicts employee churn using machine learning + feature insights.  
+✔ Visual dashboards  
+✔ Feature importance  
+✔ ML predictions  
+**Tech Used:** Python, scikit-learn, Matplotlib  
+**Repo Link:** *(add your repo link here)*
+
+---
+
+## 🔹 **4) ECG Decoding — Biomedical ML**
+AI model that reads ECG data and extracts useful patterns.  
+✔ Noise cleaning  
+✔ Peak detection  
+✔ Predictive modeling  
+**Tech Used:** Python, NumPy, Signal Processing  
+**Repo Link:** *(add your repo link here)*
+
+---
+
+<!-- ========================================================= -->
+<!--                      GITHUB ANALYTICS                      -->
+<!-- ========================================================= -->
+
+# 📊 **GitHub Analytics**
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilv24&show_icons=true&theme=graywhite&count_private=true&hide_border=true&title_color=0B67A3&icon_color=0B67A3&text_color=374151" width="55%" />
 
-**Undergraduate • AI & Machine Learning | Data Science • Practical Project Builder**
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilv24&layout=compact&langs_count=10&theme=graywhite&hide_border=true&title_color=0B67A3&text_color=374151" width="40%" />
+</div>
 
-<p>
-  <a href="https://github.com/akhilv24" target="_blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/akhilv24?label=follow&style=for-the-badge" /></a>
-  <img alt="Top Langs" src="https://img.shields.io/badge/Top%20Stack-Python%20%7C%20SQL%20%7C%20Streamlit-0A66C2?style=for-the-badge" />
-  <img alt="Status" src="https://img.shields.io/badge/Status-Open%20to%20Internships-0F9D58?style=for-the-badge" />
+---
+
+# 🔥 **Contribution Streak**
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=akhilv24&theme=default&hide_border=true&ring=0B67A3&currStreakLabel=0B67A3&fire=0B67A3" width="80%" />
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                  PROFESSIONAL EXPECTATIONS                 -->
+<!-- ========================================================= -->
+
+# 📝 **What I Deliver in Every Project**
+✔ Clean code (PEP8, consistent structure)  
+✔ Fully documented README  
+✔ Reproducible notebooks  
+✔ Screenshots / demos / usage guidelines  
+✔ Proper folder structure  
+✔ Scalable approach (not just one-time scripts)
+
+This isn’t just coding — it’s **professional engineering practice**.
+
+---
+
+<!-- ========================================================= -->
+<!--                      CONTACT SECTION                       -->
+<!-- ========================================================= -->
+
+# 🌐 **Connect With Me**
+
+<p align="left">
+  <a href="https://github.com/akhilv24"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
 </p>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-I’m an undergraduate building production-focused tools in **AI, ML, and Data Engineering**.  
-I prefer practical projects that deliver measurable value — chatbots, analytics dashboards, and ML models used for prediction and automation.
-
----
-
-## 🔎 Focus Areas
-- Machine Learning & Model Deployment  
-- Data Analysis & Visualization  
-- Web apps with Streamlit / Flask  
-- Databases: MySQL / SQL  
-- Clean code, reproducible experiments, and readable documentation
-
----
-
-## 🧰 Tech Stack (Professional)
-<div>
-  <img alt="Python" src="https://skillicons.dev/icons?i=python&theme=light" height="28" />&nbsp;
-  <img alt="SQL" src="https://skillicons.dev/icons?i=mysql&theme=light" height="28" />&nbsp;
-  <img alt="Streamlit" src="https://skillicons.dev/icons?i=streamlit&theme=light" height="28" />&nbsp;
-  <img alt="scikit-learn" src="https://skillicons.dev/icons?i=sklearn&theme=light" height="28" />&nbsp;
-  <img alt="pytorch" src="https://skillicons.dev/icons?i=pytorch&theme=light" height="28" />&nbsp;
-  <img alt="pandas" src="https://skillicons.dev/icons?i=pandas&theme=light" height="28" />&nbsp;
-  <img alt="git" src="https://skillicons.dev/icons?i=git&theme=light" height="28" />&nbsp;
-  <img alt="vscode" src="https://skillicons.dev/icons?i=vscode&theme=light" height="28" />
-</div>
-
----
-
-## 📊 GitHub Overview
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilv24&show_icons=true&theme=github_dark&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilv24&layout=compact&langs_count=8&theme=github_dark&hide_border=true" width="40%" />
-</div>
-
----
-
-## 🔬 Featured Projects
-> Professional, production-focused projects with clear outcomes.
-
-### 1) **Medical Chatbot** — Healthcare assistant  
-- Voice-enabled assistant, chat history, medicine info lookup, and PDF health report parsing.  
-- Tech: Python, Streamlit, NLP, SQLite/MySQL.  
-- Repo: `akhilv24/medical-chatbot` *(add link)*
-
-### 2) **DataSense AI** — Conversational Data Analyst  
-- Upload a dataset and ask questions in natural language to get insights, charts, and CSV exports.  
-- Tech: Python, LangChain patterns, Streamlit, scikit-learn.  
-- Repo: `akhilv24/datasense-ai` *(add link)*
-
-### 3) **Employee Attrition Analysis** — HR analytics  
-- ML model to predict turnover + dashboards showing feature importance and recommendations.  
-- Tech: Python, scikit-learn, Matplotlib/Plotly.  
-- Repo: `akhilv24/attrition-analysis` *(add link)*
-
-*(Add direct repo links above for each project to make them clickable.)*
-
----
-
-## 📝 What I Document & Deliver
-- Clear README for every project (setup, usage, dataset info)  
-- Reproducible code & notebooks  
-- Basic unit tests or example usages for core modules  
-- Short demo videos or GIFs for major features
-
----
-
-## 📈 Activity & Contributions
-- Regular commits across coding and data projects  
-- Meaningful contributions to personal and collaborative repos  
-- Open to mentorship and peer code reviews
-
----
-
-## 📫 Contact
-- **GitHub:** `@akhilv24` — https://github.com/akhilv24  
-- **LinkedIn:** *(paste your profile link)*  
-- **Email:** *(add professional email)*
 
 ---
 
 <p align="center">
-  <sub>Built with a focus on clarity, production-readiness, and clean documentation — ready for internships & real-world projects.</sub>
+  <b>⚡ Focused on building impactful, reliable, and scalable AI solutions.</b>  
+  <br/>
+  <sub>Always improving. Always learning. Always building.</sub>
 </p>
