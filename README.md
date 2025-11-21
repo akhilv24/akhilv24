@@ -1,157 +1,70 @@
-<!-- ========================================================= -->
-<!--                  PROFESSIONAL HEADER                      -->
-<!-- ========================================================= -->
+## 👨‍💻 About Me
+Hi! I'm Akhil — an undergraduate student exploring the world of **AI, Machine Learning, and Data Science**.  
+I enjoy building practical, real-world solutions like chatbots, dashboards, and ML-powered prediction systems.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=2500&pause=1000&color=0B67A3&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Akhil+👋;AI+%26+Machine+Learning+Enthusiast;Data+Science+Learner+%26+Tech+Professional;Welcome+to+My+GitHub+Profile!" />
-</p>
+I'm always learning, experimenting, and improving — one project at a time.
 
-<br/>
+- 🔍 Passionate about solving problems with data  
+- 🧠 Focused on AI, ML, and analytics  
+- 🛠 Love turning ideas into functional applications  
+- 🚀 Constantly building and leveling up my skills  
 
-<!-- ========================================================= -->
-<!--                        PROFILE SUMMARY                     -->
-<!-- ========================================================= -->
+## 🛠️ Tech Stack & Expertise
 
-# 👨‍💻 **About Me**
-I’m an undergraduate building **real-world, production-focused solutions** in **AI, Machine Learning, and Data Engineering**.  
-My goal is simple:  
-➡️ Build tools that **solve actual problems**,  
-➡️ Develop software that is **reliable, clean, and maintainable**,  
-➡️ And become a professional who delivers **impact over complexity**.
-
-I spend most of my time:
-- Turning ideas into working applications  
-- Building ML models that provide insights  
-- Writing structured documentation  
-- Making my projects user-friendly and deployment-friendly  
-
----
-
-# 🚀 **What I Excel In**
-### ✔ Machine Learning  
-### ✔ Data Analysis & Visualization  
-### ✔ AI-driven Applications  
-### ✔ Streamlit Web App Development  
-### ✔ Database Systems (SQL/MySQL)  
-### ✔ Clean Code & Documentation  
-
----
-
-<!-- ========================================================= -->
-<!--               PROFESSIONAL TECH STACK (BIG ICONS)          -->
-<!-- ========================================================= -->
-
-# 🛠️ **Tech Stack & Tools (Professional Edition)**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,js,php,mysql,java,cpp&theme=light" height="55" /><br/>
-  <img src="https://skillicons.dev/icons?i=streamlit,sklearn,pandas,numpy,pytorch,flask,bootstrap&theme=light" height="55" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman&theme=light" height="55" />
+### **Programming & Scripting**
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="40" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" />
 </p>
 
 ---
 
-<!-- ========================================================= -->
-<!--                   PROJECT SECTION (BIG CARDS)              -->
-<!-- ========================================================= -->
-
-# 📂 **Featured Projects (Detailed & Professional)**
-
-## 🔹 **1) Medical Chatbot — Healthcare AI Assistant**
-A voice-enabled, intelligent chatbot that supports:  
-✔ Medicine lookup  
-✔ Chat history  
-✔ Health stats from uploaded medical PDFs  
-✔ User-friendly interactive UI  
-**Tech Used:** Python, Streamlit, NLP, SQLite/MySQL  
-**Repo Link:** *(add your repo link here)*
-
----
-
-## 🔹 **2) DataSense AI — Conversational Data Analyst**
-Upload any dataset → Ask questions → Get insights instantly.  
-✔ Natural language querying  
-✔ Automated charts  
-✔ Summary reports  
-✔ Intelligent data interpretation  
-**Tech Used:** Python, Pandas, ML, Streamlit  
-**Repo Link:** *(add your repo link here)*
-
----
-
-## 🔹 **3) Employee Attrition Analysis — HR Analytics**
-Predicts employee churn using machine learning + feature insights.  
-✔ Visual dashboards  
-✔ Feature importance  
-✔ ML predictions  
-**Tech Used:** Python, scikit-learn, Matplotlib  
-**Repo Link:** *(add your repo link here)*
-
----
-
-## 🔹 **4) ECG Decoding — Biomedical ML**
-AI model that reads ECG data and extracts useful patterns.  
-✔ Noise cleaning  
-✔ Peak detection  
-✔ Predictive modeling  
-**Tech Used:** Python, NumPy, Signal Processing  
-**Repo Link:** *(add your repo link here)*
-
----
-
-<!-- ========================================================= -->
-<!--                      GITHUB ANALYTICS                      -->
-<!-- ========================================================= -->
-
-# 📊 **GitHub Analytics**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilv24&show_icons=true&theme=graywhite&count_private=true&hide_border=true&title_color=0B67A3&icon_color=0B67A3&text_color=374151" width="55%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilv24&layout=compact&langs_count=10&theme=graywhite&hide_border=true&title_color=0B67A3&text_color=374151" width="40%" />
-</div>
-
----
-
-# 🔥 **Contribution Streak**
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=akhilv24&theme=default&hide_border=true&ring=0B67A3&currStreakLabel=0B67A3&fire=0B67A3" width="80%" />
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                  PROFESSIONAL EXPECTATIONS                 -->
-<!-- ========================================================= -->
-
-# 📝 **What I Deliver in Every Project**
-✔ Clean code (PEP8, consistent structure)  
-✔ Fully documented README  
-✔ Reproducible notebooks  
-✔ Screenshots / demos / usage guidelines  
-✔ Proper folder structure  
-✔ Scalable approach (not just one-time scripts)
-
-This isn’t just coding — it’s **professional engineering practice**.
-
----
-
-<!-- ========================================================= -->
-<!--                      CONTACT SECTION                       -->
-<!-- ========================================================= -->
-
-# 🌐 **Connect With Me**
-
-<p align="left">
-  <a href="https://github.com/akhilv24"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+### **Machine Learning & AI**
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="40" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="40" />
 </p>
 
 ---
 
-<p align="center">
-  <b>⚡ Focused on building impactful, reliable, and scalable AI solutions.</b>  
-  <br/>
-  <sub>Always improving. Always learning. Always building.</sub>
+### **Data Analysis & Visualization**
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas" height="40" />
+  <img src="https://skillicons.dev/icons?i=numpy" height="40" />
+  <img src="https://skillicons.dev/icons?i=matplotlib" height="40" />
+  <img src="https://skillicons.dev/icons?i=plotly" height="40" />
+</p>
+
+---
+
+### **Web & App Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=streamlit" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" />
+</p>
+
+---
+
+### **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" />
+</p>
+
+---
+
+### **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" />
 </p>
