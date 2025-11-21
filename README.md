@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,mysql,git,linux,streamlit,flask,pytorch,tensorflow,sklearn,pandas,numpy&perline=8" />
+  <img src="https://skillicons.dev/icons?i= python, java, c, cpp, html, css, js, mysql, git, linux, streamlit, flask, pytorch, tensorflow, sklearn, pandas, numpy&perline=8" />
 </p>
 
 ---
@@ -43,3 +43,4 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
