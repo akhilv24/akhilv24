@@ -80,7 +80,6 @@
 ### 🔹 **Employee Attrition Analysis**
 - ML model + visual dashboards  
 - Predicts employee turnover
-- 
 ---
 
 ## 📊 GitHub Statistics
@@ -108,6 +107,7 @@
 <p align="center">
   <b>⚡ Always learning. Always building. Always improving.</b>
 </p>
+
 
 
 
