@@ -69,15 +69,15 @@
 ---
 ## 📂 Featured Projects
 
-### 🔹 **Medical Chatbot**
+### 🤖 **Medical Chatbot**
 - Voice-enabled chatbot with chat history, medicine lookup, and health stats extraction  
 - Streamlit-based UI  
 
-### 🔹 **DataSense AI**
+### 🖨 **DataSense AI**
 - Conversational data analysis tool  
 - Upload datasets and get instant insights  
 
-### 🔹 **Employee Attrition Analysis**
+### 📊 **Employee Attrition Analysis**
 - ML model + visual dashboards  
 - Predicts employee turnover
 ---
@@ -107,6 +107,7 @@
 <p align="center">
   <b>⚡ Always learning. Always building. Always improving.</b>
 </p>
+
 
 
 
