@@ -37,13 +37,14 @@
 
 ---
 
-### **Web & App Development**
+### Web & App Development
 <p>
-  <img src="https://skillicons.dev/icons?i=streamlit" height="40" />
-  <img src="https://skillicons.dev/icons?i=html" height="42" />
-  <img src="https://skillicons.dev/icons?i=css" height="42" />
-  <img src="https://skillicons.dev/icons?i=php" height="42" />
-  <img src="https://skillicons.dev/icons?i=flask" height="42" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" />
+  <img src="https://skillicons.dev/icons?i=streamlit&v=1" height="40" />
 </p>
 
 ---
@@ -108,4 +109,5 @@
 <p align="center">
   <b>⚡ Always learning. Always building. Always improving.</b>
 </p>
+
 
