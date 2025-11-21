@@ -1,6 +1,9 @@
-## 👨‍💻 About Me
-Hi! I'm Akhil — an undergraduate diving into **AI, Machine Learning, Data Science, and full-stack development**.  
-I enjoy creating practical tools like chatbots, dashboards, analytics systems, and ML-powered solutions.
+## 👋 Hi, I'm Akhil — AI & ML Enthusiast | Data Science Learner | Tech Explorer
+
+I’m an aspiring AI engineer focused on designing **practical, intelligent solutions** that solve real-world problems.  
+I specialize in **Machine Learning, Data Analysis, Predictive Modeling, and Modern Web App Development**, turning raw data into meaningful insights and interactive applications.  
+
+My work spans **chatbots, analytics dashboards, ML-powered prediction systems, biomedical signal analysis, and automation tools** — all built with clean, reliable, and scalable practices in mind.
 
 I'm all about:
 - 🔍 Deep learning & problem-solving  
@@ -115,3 +118,4 @@ I'm all about:
 <p align="center">
   <b>⚡ Always learning. Always building. Always improving.</b>
 </p>
+
