@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Akhil</h1>
-<h3 align="center">🚀 AI/ML Explorer | 💻 Programmer & Developer | 🌱 Always Learning</h3>
+<h3 align="center">🚀 AI/ML Explorer / Data Analysis 📊 | 💻 Programmer & Developer | 🌱 Always Learning</h3>
 
 ---
 
@@ -107,6 +107,7 @@
 <p align="center">
   <b>⚡ Always learning. Always building. Always improving.</b>
 </p>
+
 
 
 
