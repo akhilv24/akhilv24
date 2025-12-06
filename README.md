@@ -80,13 +80,6 @@
 ### 📊 **Employee Attrition Analysis**
 - ML model + visual dashboards  
 - Predicts employee turnover
----
-
-## 📊 GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilv24&show_icons=true&theme=graywhite&hide_border=true" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilv24&layout=compact&theme=graywhite&hide_border=true" width="40%" />
-</div>
 
 ---
 
