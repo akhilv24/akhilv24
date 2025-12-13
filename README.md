@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 About Me
+##  About Me
 
 - 🔭 Currently working on **AI, Machine Learning, and Data Science Projects**
 - 🌱 Learning & exploring: **Python, ML, Data Analysis, Java, C, C++, HTML, CSS, JS, SQL**
@@ -83,7 +83,7 @@
 
 ---
 
-## 🔥 Contribution Streak
+## Contribution Streak
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=akhilv24&theme=default&hide_border=true" width="80%" />
 </div>
@@ -98,8 +98,9 @@
 </p>
 
 <p align="center">
-  <b>⚡ Always learning. Always building. Always improving.</b>
+  <b> Always learning. Always building. Always improving.</b>
 </p>
+
 
 
 
