@@ -59,6 +59,3 @@ echo "Press Ctrl+C to stop the server."
 echo ""
 
 streamlit run app.py
-
-# Deactivate virtual environment on exit
-deactivate

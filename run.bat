@@ -62,6 +62,3 @@ echo Press Ctrl+C to stop the server.
 echo.
 
 streamlit run app.py
-
-REM Deactivate virtual environment on exit
-call venv\Scripts\deactivate.bat

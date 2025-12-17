@@ -112,7 +112,6 @@ if page == "🏠 Home":
     # Timeline
     st.header("🎯 Journey Timeline")
     timeline_data = pd.DataFrame({
-        'Year': [2023, 2023, 2024, 2024, 2024],
         'Milestone': [
             'Started ML Journey',
             'Built First Chatbot',
@@ -120,17 +119,20 @@ if page == "🏠 Home":
             'Web Development Skills',
             'Advanced AI Projects'
         ],
+        'Start': ['2023-01', '2023-06', '2024-01', '2024-04', '2024-08'],
+        'End': ['2023-05', '2023-12', '2024-03', '2024-07', '2024-12'],
         'Category': ['Learning', 'Project', 'Project', 'Learning', 'Project']
     })
     
     fig = px.timeline(
         timeline_data,
-        x_start='Year',
-        x_end='Year',
+        x_start='Start',
+        x_end='End',
         y='Milestone',
         color='Category',
         title='My Learning & Development Journey'
     )
+    fig.update_yaxes(autorange="reversed")
     st.plotly_chart(fig, use_container_width=True)
 
 # ====================

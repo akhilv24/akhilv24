@@ -40,7 +40,7 @@ An interactive web-based portfolio dashboard built with Streamlit to showcase sk
 - **Framework:** Streamlit 1.29.0
 - **Data Processing:** Pandas 2.1.4
 - **Visualization:** Plotly 5.18.0
-- **Image Processing:** Pillow 10.1.0
+- **Image Processing:** Pillow 10.3.0
 - **HTTP Requests:** Requests 2.31.0
 
 ## 📦 Installation
