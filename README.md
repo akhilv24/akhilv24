@@ -8,7 +8,7 @@
 - 🔭 Currently working on **AI, Machine Learning, and Data Science Projects**
 - 🌱 Learning & exploring: **Python, ML, Data Analysis, Java, C, C++, HTML, CSS, JS, SQL**
 - ⚙️ Love building: **Chatbots, Dashboards, ML Models, and Web Apps**
-- 👨‍💻 Check out all my work here: [My GitHub Repositories](https://github.com/akhilv24?tab=repositories)& [Portfolio](https://portfolioakhil.vercel.app/)
+- 👨‍💻 Check out all my work here: [My GitHub Repositories](https://github.com/akhilv24?tab=repositories) & [Portfolio](https://portfolioakhil.vercel.app/)
 - 
 - 📫 Reach me at: **akhilv2402@gmail.com**
 - 🌐 Connect: [Instagram](https://www.instagram.com/akhilz.24/)
@@ -101,6 +101,7 @@
 <p align="center">
   <b> Always learning. Always building. Always improving.</b>
 </p>
+
 
 
 
