@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋 I'm Akhil</h1>
 <h3 align="center">🚀 AI/ML Explorer / Data Analysis 📊 | 💻 Programmer & Developer | 🌱 Always Learning</h3>
 
+<div align="center">
+  
+  [![Portfolio Dashboard](https://img.shields.io/badge/🚀_Interactive_Portfolio-Dashboard-blue?style=for-the-badge)](./app.py)
+  
+  **✨ NEW! Check out my interactive portfolio dashboard application built with Streamlit!**  
+  [View Documentation](./APP_README.md) | [Run Application](./app.py)
+  
+</div>
+
 ---
 
 ##  About Me
